@@ -1,0 +1,5 @@
+1. Keep existing v0.6 folder.
+2. Copy ComfyUI-RelateAnything-QC-v07 into ComfyUI\custom_nodes.
+3. Restart ComfyUI.
+4. Import workflows\ARCHVIZ_RELATEANYTHING_BEFORE_AFTER_QC_v007.json.
+5. Choose BEFORE geometry-truth render and AFTER AI render.
